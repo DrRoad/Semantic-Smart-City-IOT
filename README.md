@@ -1,1 +1,1 @@
-# Semantic-Smart-City-IOT
+# Semantic Smart City IOT Framework
