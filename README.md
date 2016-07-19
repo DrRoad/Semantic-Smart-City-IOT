@@ -4,7 +4,7 @@ framework.pdf  ------ Figure 1
 
 smartcity.png  ------ Figure 2
 
-smartcity.png  ------ Figure 3
+encoder.png    ------ Figure 3
 
 hangzhou1.png  ------ Figure 4(a)
 
